@@ -1,7 +1,7 @@
 # Stat-Tracker-Web-app
 This web app is used to keep track of realtime gospel stats. It requires a database to store collected stats
 
-<h3> Important </h3?
+<h3> Important </h3>
 First and foremost - this app needs to be hosted on a webserver. I recommend 000webhost.com since they offer free hosting. They also provide 2 Databases for free. You will need to create a database to make this app functional. Otherwise it will require a query error. 
 
 Database requres 3 fields.
